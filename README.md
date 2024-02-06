@@ -1,4 +1,4 @@
-👋 Hello, I'm <em>David Dubuc</em>, a passionate French-Canadian student specializing in front-end web development. 🌟
+👋 Hello, I'm <em>David Dubuc</em>, a passionate French-Canadian student specializing in <span>front-end web </span> development. 🌟
 
 👨‍💻 With a keen eye for design and a love for coding, I'm constantly exploring the ever-evolving world of web development to create immersive and engaging user experiences.
 
