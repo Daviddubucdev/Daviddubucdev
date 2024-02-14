@@ -13,3 +13,6 @@
 🌱 When I'm not immersed in code or surrounded by the hustle of the sawmill, you can often find me exploring the great outdoors, seeking inspiration from nature's wonders. Whether it's a hike in the mountains or a peaceful walk on the beach, these moments recharge my creativity and remind me of the beauty that exists both in code and in the world around us.
 
 ✨ I'm excited to embark on this journey of constant learning and growth in the world of front-end web development. Let's connect, collaborate, and create together! 🌟
+<div class="w3-border">
+  <div class="w3-grey" style="height:24px;width:20%"></div>
+</div>
